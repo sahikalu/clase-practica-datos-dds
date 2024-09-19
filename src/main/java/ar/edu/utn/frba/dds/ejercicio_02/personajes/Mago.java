@@ -11,7 +11,7 @@ import javax.persistence.Entity;
 @Setter
 @Entity
 @DiscriminatorValue("MAGO")
-public class Mago  extends Personaje{
+public class Mago  extends Personaje {
 
   @Column(name = "nivelDeMagia", columnDefinition = "INTEGER")
   private Integer nivelDeMagia;
@@ -22,6 +22,5 @@ public class Mago  extends Personaje{
   public void atacar(Personaje personaje) {
  //TODO
   }
-
 
 }
