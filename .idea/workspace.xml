@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b37ba1-b6f7-4fd2-9189-0d236adbc319" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frba/dds/ejercicio_02/personajes/Mago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/utn/frba/dds/ejercicio_02/personajes/Mago.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6b37ba1-b6f7-4fd2-9189-0d236adbc319" name="Changes" comment="" />
     <list id="219a21df-d5f4-4c59-a583-39a7fd4991ac" name="Changes by FerJuncos" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +74,7 @@
       <updated>1726700553220</updated>
       <workItem from="1726700554268" duration="2505000" />
       <workItem from="1726703686204" duration="1607000" />
-      <workItem from="1726765235664" duration="3786000" />
+      <workItem from="1726765235664" duration="4099000" />
     </task>
     <servers />
   </component>
